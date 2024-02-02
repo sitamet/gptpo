@@ -1,0 +1,47 @@
+{
+  "name": "gptpo",
+  "version": "1.0.0",
+  "description": "A command-line tool designed for translating .po files using GPT technology",
+  "main": "index.js",
+  "bin": {
+    "gptpo": "index.js"
+  },
+  "scripts": {
+    "start": "node --no-warnings index.js",
+    "devel": "nodemon --no-warnings index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitamet/gptpo.git",
+    "original":
+  },
+  "author": "Ryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sitamet/gptpo/issues"
+  },
+  "homepage": "https://github.com/sitamet/gptpo#readme",
+  "keywords": [
+    "gettext",
+    "po",
+    "pot",
+    "chatgpt",
+    "openai"
+  ],
+  "devDependencies": {
+    "@types/gettext-parser": "^4.0.4",
+    "@types/jest": "^29.5.8",
+    "jest": "^29.7.0",
+    "ncp": "^2.0.0"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "gettext-parser": "^7.0.1",
+    "gptpo": "^1.0.11",
+    "openai": "^4.19.1"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}

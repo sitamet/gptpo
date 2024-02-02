@@ -1,0 +1,3 @@
+#: To be translated with
+msgid "Previously translated."
+msgstr ""

@@ -1,0 +1,795 @@
+- **English Term**: abort
+- **Part of Speech**: verb
+- **Catalan Translation**: interrompre
+
+
+- **English Term**: accent color
+- **Part of Speech**: noun
+- **Catalan Translation**: color d'èmfasi
+
+- **English Term**: add-on
+- **Part of Speech**: noun
+- **Catalan Translation**: complement
+
+- **English Term**: addon
+- **Part of Speech**: noun
+- **Catalan Translation**: complement
+
+- **English Term**: alignment
+- **Part of Speech**: noun
+- **Catalan Translation**: alineació
+
+- **English Term**: archive
+- **Part of Speech**: noun
+- **Catalan Translation**: arxiu
+
+- **English Term**: array
+- **Part of Speech**: noun
+- **Catalan Translation**: matriu
+
+- **English Term**: aside
+- **Part of Speech**: noun
+- **Catalan Translation**: anotació
+
+- **English Term**: asset
+- **Part of Speech**: noun
+- **Catalan Translation**: recurs
+
+- **English Term**: attachment
+- **Part of Speech**: noun
+- **Catalan Translation**: adjunt
+
+- **English Term**: backorder
+- **Part of Speech**: noun
+- **Catalan Translation**: reserva
+
+- **English Term**: badge
+- **Part of Speech**: noun
+- **Catalan Translation**: insígnia
+
+- **English Term**: banner
+- **Part of Speech**: noun
+- **Catalan Translation**: bàner
+
+- **English Term**: block
+- **Part of Speech**: verb
+- **Catalan Translation**: blocar
+
+- **English Term**: block
+- **Part of Speech**: noun
+- **Catalan Translation**: bloc
+
+- **English Term**: blog
+- **Part of Speech**: noun
+- **Catalan Translation**: blog
+
+- **English Term**: border
+- **Part of Speech**: noun
+- **Catalan Translation**: vora
+
+- **English Term**: breadcrumb
+- **Part of Speech**: noun
+- **Catalan Translation**: ruta de navegació
+
+- **English Term**: bulk
+- **Part of Speech**: noun
+- **Catalan Translation**: en massa
+
+- **English Term**: cache
+- **Part of Speech**: noun
+- **Catalan Translation**: memòria cau
+
+- **English Term**: callback
+- **Part of Speech**: noun
+- **Catalan Translation**: crida de retorn
+
+- **English Term**: capability
+- **Part of Speech**: noun
+- **Catalan Translation**: capacitat
+
+- **English Term**: caption
+- **Part of Speech**: noun
+- **Catalan Translation**: llegenda
+
+- **English Term**: cart
+- **Part of Speech**: noun
+- **Catalan Translation**: cistella
+
+- **English Term**: case sensitive
+- **Part of Speech**: expression
+- **Catalan Translation**: distingeix entre majúscules i minúscules
+
+- **English Term**: checkbox
+- **Part of Speech**: noun
+- **Catalan Translation**: casella de selecció
+
+- **English Term**: choose
+- **Part of Speech**: verb
+- **Catalan Translation**: triar
+
+- **English Term**: clear
+- **Part of Speech**: verb
+- **Catalan Translation**: netejar
+
+- **English Term**: click
+- **Part of Speech**: noun
+- **Catalan Translation**: clic
+
+- **English Term**: click
+- **Part of Speech**: verb
+- **Catalan Translation**: fer clic
+
+- **English Term**: click
+- **Part of Speech**: verb
+- **Catalan Translation**: clicar (termcat)
+
+- **English Term**: clipboard
+- **Part of Speech**: noun
+- **Catalan Translation**: porta-retalls
+
+- **English Term**: collapse
+- **Part of Speech**: verb
+- **Catalan Translation**: reduir
+
+- **English Term**: contributor
+- **Part of Speech**: noun
+- **Catalan Translation**: col·laborador, -a
+
+- **English Term**: cookie
+- **Part of Speech**: noun
+- **Catalan Translation**: galeta
+
+- **English Term**: copyright
+- **Part of Speech**: noun
+- **Catalan Translation**: copyright
+
+- **English Term**: crop
+- **Part of Speech**: verb
+- **Catalan Translation**: escapçar
+
+- **English Term**: cross-sell
+- **Part of Speech**: noun
+- **Catalan Translation**: venda creuada
+
+- **English Term**: Customizer
+- **Part of Speech**: noun
+- **Catalan Translation**: Personalitzador
+
+- **English Term**: dashboard
+- **Part of Speech**: noun
+- **Catalan Translation**: tauler
+
+- **English Term**: decrypt
+- **Part of Speech**: verb
+- **Catalan Translation**: desxifrar
+
+- **English Term**: decryption
+- **Part of Speech**: noun
+- **Catalan Translation**: desxifratge
+
+- **English Term**: delay
+- **Part of Speech**: noun
+- **Catalan Translation**: retard
+
+- **English Term**: delay
+- **Part of Speech**: verb
+- **Catalan Translation**: retardar
+
+- **English Term**: delete
+- **Part of Speech**: verb
+- **Catalan Translation**: suprimir
+
+- **English Term**: deprecated
+- **Part of Speech**: adjective
+- **Catalan Translation**: obsolet, -a
+
+- **English Term**: destination
+- **Part of Speech**: noun
+- **Catalan Translation**: destinació
+
+- **English Term**: dismiss
+- **Part of Speech**: verb
+- **Catalan Translation**: descartar
+
+- **English Term**: download
+- **Part of Speech**: noun
+- **Catalan Translation**: baixada
+
+- **English Term**: download
+- **Part of Speech**: verb
+- **Catalan Translation**: baixar
+
+- **English Term**: downtime
+- **Part of Speech**: noun
+- **Catalan Translation**: temps d'inactivitat
+
+- **English Term**: dropdown
+- **Part of Speech**: noun
+- **Catalan Translation**: desplegable
+
+- **English Term**: email
+- **Part of Speech**: noun
+- **Catalan Translation**: correu electrònic
+
+- **English Term**: email address
+- **Part of Speech**: noun
+- **Catalan Translation**: adreça electrònica
+
+- **English Term**: embed
+- **Part of Speech**: verb
+- **Catalan Translation**: incrustar
+
+- **English Term**: encription
+- **Part of Speech**: noun
+- **Catalan Translation**: xifratge
+
+- **English Term**: encrypt
+- **Part of Speech**: verb
+- **Catalan Translation**: xifrar
+
+- **English Term**: event
+- **Part of Speech**: noun
+- **Catalan Translation**: esdeveniment
+
+- **English Term**: excerpt
+- **Part of Speech**: noun
+- **Catalan Translation**: extracte
+
+- **English Term**: fallback
+- **Part of Speech**: noun
+- **Catalan Translation**: alternativa
+
+- **English Term**: FAQ
+- **Part of Speech**: noun
+- **Catalan Translation**: PMF
+- **Description**: Sigles de «preguntes més freqüents»
+
+- **English Term**: favorite
+- **Part of Speech**: adjective
+- **Catalan Translation**: preferit
+
+- **English Term**: favourite
+- **Part of Speech**: adjective
+- **Catalan Translation**: preferit
+
+- **English Term**: featured
+- **Part of Speech**: adjective
+- **Catalan Translation**: destacat, -da
+
+- **English Term**: fee
+- **Part of Speech**: noun
+- **Catalan Translation**: quota
+
+- **English Term**: feed
+- **Part of Speech**: noun
+- **Catalan Translation**: canal
+
+- **English Term**: fetch
+- **Part of Speech**: verb
+- **Catalan Translation**: recollir
+
+- **English Term**: file
+- **Part of Speech**: noun
+- **Catalan Translation**: fitxer
+
+- **English Term**: firewall
+- **Part of Speech**: noun
+- **Catalan Translation**: tallafocs
+
+- **English Term**: font
+- **Part of Speech**: noun
+- **Catalan Translation**: tipus de lletra
+
+- **English Term**: front page
+- **Part of Speech**: noun
+- **Catalan Translation**: portada
+
+- **English Term**: gradient
+- **Part of Speech**: noun
+- **Catalan Translation**: degradat
+
+- **English Term**: grid
+- **Part of Speech**: noun
+- **Catalan Translation**: graella
+
+- **English Term**: guidelines
+- **Part of Speech**: noun
+- **Catalan Translation**: directrius
+
+- **English Term**: header
+- **Part of Speech**: noun
+- **Catalan Translation**: capçalera
+
+- **English Term**: heading
+- **Part of Speech**: noun
+- **Catalan Translation**: capçalera
+
+- **English Term**: height
+- **Part of Speech**: noun
+- **Catalan Translation**: alçada
+
+- **English Term**: hide
+- **Part of Speech**: verb
+- **Catalan Translation**: amagar
+
+- **English Term**: home
+- **Part of Speech**: noun
+- **Catalan Translation**: pàgina d'inici
+
+- **English Term**: honeypot
+- **Part of Speech**: noun
+- **Catalan Translation**: esquer
+
+- **English Term**: hook
+- **Part of Speech**: noun
+- **Catalan Translation**: ganxo
+
+- **English Term**: hosting
+- **Part of Speech**: noun
+- **Catalan Translation**: allotjament
+
+- **English Term**: hover
+- **Part of Speech**: verb
+- **Catalan Translation**: en passar el ratolí
+
+- **English Term**: howdy
+- **Part of Speech**: interjection
+- **Catalan Translation**: hola
+
+- **English Term**: ID
+- **Part of Speech**: noun
+- **Catalan Translation**: identificador
+
+- **English Term**: inbox
+- **Part of Speech**: noun
+- **Catalan Translation**: bústia d’entrada
+
+- **English Term**: invalid
+- **Part of Speech**: adjective
+- **Catalan Translation**: no vàlid, -a
+
+- **English Term**: item
+- **Part of Speech**: noun
+- **Catalan Translation**: element / article
+- **Description**: Només s'utilitza «article» a les botigues online
+
+- **English Term**: layout
+- **Part of Speech**: noun
+- **Catalan Translation**: disseny
+
+- **English Term**: length
+- **Part of Speech**: noun
+- **Catalan Translation**: longitud
+
+- **English Term**: locale
+- **Part of Speech**: noun
+- **Catalan Translation**: configuració regional
+
+- **English Term**: location
+- **Part of Speech**: noun
+- **Catalan Translation**: ubicació
+
+- **English Term**: lock
+- **Part of Speech**: noun
+- **Catalan Translation**: bloqueig
+
+- **English Term**: lock
+- **Part of Speech**: verb
+- **Catalan Translation**: bloquejar
+
+- **English Term**: log
+- **Part of Speech**: noun
+- **Catalan Translation**: registre
+
+- **English Term**: logo
+- **Part of Speech**: noun
+- **Catalan Translation**: logotip
+
+- **English Term**: manage
+- **Part of Speech**: verb
+- **Catalan Translation**: gestionar
+
+- **English Term**: manager
+- **Part of Speech**: noun
+- **Catalan Translation**: gestor, -a
+
+- **English Term**: media
+- **Part of Speech**: noun
+- **Catalan Translation**: mèdia
+- **Description**: media library » mediateca
+
+- **English Term**: media library
+- **Part of Speech**: noun
+- **Catalan Translation**: mediateca
+
+- **English Term**: membership
+- **Part of Speech**: noun
+- **Catalan Translation**: afiliació
+
+- **English Term**: merge
+- **Part of Speech**: verb
+- **Catalan Translation**: fusionar
+
+- **English Term**: modal
+- **Part of Speech**: noun
+- **Catalan Translation**: finestra emergent
+
+- **English Term**: move to trash
+- **Part of Speech**: verb
+- **Catalan Translation**: moure a la paperera
+
+- **English Term**: multisite
+- **Part of Speech**: noun
+- **Catalan Translation**: multilloc
+
+- **English Term**: newsletter
+- **Part of Speech**: noun
+- **Catalan Translation**: butlletí
+
+- **English Term**: notification
+- **Part of Speech**: noun
+- **Catalan Translation**: notificació
+
+- **English Term**: off
+- **Part of Speech**: adjective
+- **Catalan Translation**: inactiu
+
+- **English Term**: offset
+- **Part of Speech**: noun
+- **Catalan Translation**: desplaçament
+
+- **English Term**: OK
+- **Part of Speech**: interjection
+- **Catalan Translation**: d'acord
+
+- **English Term**: onboarding
+- **Part of Speech**: noun
+- **Catalan Translation**: posada en marxa
+
+- **English Term**: oops
+- **Part of Speech**: interjection
+- **Catalan Translation**: vaja
+
+- **English Term**: overlay
+- **Part of Speech**: adjective
+- **Catalan Translation**: superposat, -da
+
+- **English Term**: overlay
+- **Part of Speech**: verb
+- **Catalan Translation**: superposar
+
+- **English Term**: overlay
+- **Part of Speech**: noun
+- **Catalan Translation**: superposició
+
+- **English Term**: overview
+- **Part of Speech**: noun
+- **Catalan Translation**: resum
+
+- **English Term**: padding
+- **Part of Speech**: noun
+- **Catalan Translation**: separació
+
+- **English Term**: panel
+- **Part of Speech**: noun
+- **Catalan Translation**: quadre
+
+- **English Term**: path
+- **Part of Speech**: noun
+- **Catalan Translation**: camí
+
+- **English Term**: permalink
+- **Part of Speech**: noun
+- **Catalan Translation**: enllaç permanent
+
+- **English Term**: pingback
+- **Part of Speech**: noun
+- **Catalan Translation**: retroping
+
+- **English Term**: plain text
+- **Part of Speech**: noun
+- **Catalan Translation**: text sense format
+
+- **English Term**: please
+- **Part of Speech**: expression
+- **Catalan Translation**: -
+- **Description**: Es tracta d’una «expressió innecessària» que no traduirem (https://www.softcatala.org/guia-estil-de-softcatala/aspectes-linguistics/)
+
+- **English Term**: plugin
+- **Part of Speech**: noun
+- **Catalan Translation**: extensió
+
+- **English Term**: pop-up
+- **Part of Speech**: noun
+- **Catalan Translation**: finestra emergent
+
+- **English Term**: popup
+- **Part of Speech**: noun
+- **Catalan Translation**: finestra emergent
+
+- **English Term**: post
+- **Part of Speech**: noun
+- **Catalan Translation**: entrada
+
+- **English Term**: post type
+- **Part of Speech**: noun
+- **Catalan Translation**: tipus de contingut
+
+- **English Term**: preview
+- **Part of Speech**: noun
+- **Catalan Translation**: previsualització
+
+- **English Term**: preview
+- **Part of Speech**: verb
+- **Catalan Translation**: previsualitzar
+
+- **English Term**: previous
+- **Part of Speech**: adjective
+- **Catalan Translation**: anterior
+
+- **English Term**: primary
+- **Part of Speech**: adjective
+- **Catalan Translation**: principal
+
+- **English Term**: privacy
+- **Part of Speech**: noun
+- **Catalan Translation**: privadesa
+
+- **English Term**: radio button
+- **Part of Speech**: noun
+- **Catalan Translation**: botó d’opció
+
+- **English Term**: rating
+- **Part of Speech**: noun
+- **Catalan Translation**: valoració
+
+- **English Term**: refactor
+- **Part of Speech**: noun
+- **Catalan Translation**: refacció
+
+- **English Term**: refactor
+- **Part of Speech**: verb
+- **Catalan Translation**: refer
+
+- **English Term**: referer
+- **Part of Speech**: noun
+- **Catalan Translation**: referent
+
+- **English Term**: referrer
+- **Part of Speech**: noun
+- **Catalan Translation**: referent
+
+- **English Term**: refresh
+- **Part of Speech**: verb
+- **Catalan Translation**: actualitzar
+
+- **English Term**: regular
+- **Part of Speech**: adjective
+- **Catalan Translation**: normal
+
+- **English Term**: remove
+- **Part of Speech**: verb
+- **Catalan Translation**: eliminar
+
+- **English Term**: rename
+- **Part of Speech**: verb
+- **Catalan Translation**: canviar el nom
+
+- **English Term**: replace
+- **Part of Speech**: verb
+- **Catalan Translation**: reemplaçar
+
+- **English Term**: reset
+- **Part of Speech**: verb
+- **Catalan Translation**: reinicialitzar
+
+- **English Term**: restore
+- **Part of Speech**: verb
+- **Catalan Translation**: restaurar
+
+- **English Term**: resume
+- **Part of Speech**: verb
+- **Catalan Translation**: reprendre
+
+- **English Term**: retrieve
+- **Part of Speech**: verb
+- **Catalan Translation**: recuperar
+
+- **English Term**: role
+- **Part of Speech**: noun
+- **Catalan Translation**: rol
+
+- **English Term**: rotate
+- **Part of Speech**: verb
+- **Catalan Translation**: girar
+
+- **English Term**: sanitization
+- **Part of Speech**: noun
+- **Catalan Translation**: sanejament
+
+- **English Term**: sanitize
+- **Part of Speech**: verb
+- **Catalan Translation**: sanejar
+
+- **English Term**: save
+- **Part of Speech**: verb
+- **Catalan Translation**: desar
+
+- **English Term**: search
+- **Part of Speech**: noun
+- **Catalan Translation**: cerca
+
+- **English Term**: search
+- **Part of Speech**: verb
+- **Catalan Translation**: cercar
+
+- **English Term**: setting
+- **Part of Speech**: noun
+- **Catalan Translation**: paràmetre
+
+- **English Term**: settings
+- **Part of Speech**: noun
+- **Catalan Translation**: configuració
+
+- **English Term**: settings
+- **Part of Speech**: noun
+- **Catalan Translation**: paràmetres
+
+- **English Term**: short-code
+- **Part of Speech**: noun
+- **Catalan Translation**: codi de substitució
+
+- **English Term**: shortcode
+- **Part of Speech**: noun
+- **Catalan Translation**: codi de substitució
+
+- **English Term**: shortcut
+- **Part of Speech**: noun
+- **Catalan Translation**: drecera
+
+- **English Term**: skip
+- **Part of Speech**: verb
+- **Catalan Translation**: ometre
+- **Description**: A vegades "skip" no es tradueix literalment. Per exemple, en casos com "Skip to content" diem "Vés al contingut"
+
+- **English Term**: something is wrong
+- **Part of Speech**: expression
+- **Catalan Translation**: s’ha produït un error
+
+- **English Term**: something went wrong
+- **Part of Speech**: expression
+- **Catalan Translation**: s’ha produït un error
+
+- **English Term**: sorry
+- **Part of Speech**: expression
+- **Catalan Translation**: -
+- **Description**: Es tracta d’una «expressió innecessària» que no traduirem (https://www.softcatala.org/guia-estil-de-softcatala/aspectes-linguistics/)
+
+- **English Term**: spacing
+- **Part of Speech**: noun
+- **Catalan Translation**: espaiat
+
+- **English Term**: spam
+- **Part of Speech**: noun
+- **Catalan Translation**: brossa
+
+- **English Term**: status
+- **Part of Speech**: noun
+- **Catalan Translation**: estat
+
+- **English Term**: sticky
+- **Part of Speech**: adjective
+- **Catalan Translation**: fixat, -da
+
+- **English Term**: storage
+- **Part of Speech**: noun
+- **Catalan Translation**: emmagatzematge
+
+- **English Term**: street address
+- **Part of Speech**: noun
+- **Catalan Translation**: adreça postal
+
+- **English Term**: successfully
+- **Part of Speech**: adverb
+- **Catalan Translation**: correctament
+
+- **English Term**: tag
+- **Part of Speech**: noun
+- **Catalan Translation**: etiqueta
+
+- **English Term**: tagline
+- **Part of Speech**: noun
+- **Catalan Translation**: lema
+
+- **English Term**: take over
+- **Part of Speech**: verb
+- **Catalan Translation**: prendre el control
+
+- **English Term**: template part
+- **Part of Speech**: noun
+- **Catalan Translation**: secció de plantilla
+
+- **English Term**: timezone
+- **Part of Speech**: noun
+- **Catalan Translation**: zona horària
+
+- **English Term**: token
+- **Part of Speech**: noun
+- **Catalan Translation**: testimoni
+
+- **English Term**: trackback
+- **Part of Speech**: noun
+- **Catalan Translation**: retroenllaç
+
+- **English Term**: transient
+- **Part of Speech**: noun
+- **Catalan Translation**: dada transitòria
+
+- **English Term**: trash
+- **Part of Speech**: noun
+- **Catalan Translation**: paperera
+
+- **English Term**: trash
+- **Part of Speech**: verb
+- **Catalan Translation**: moure a la paperera
+
+- **English Term**: troubleshooting
+- **Part of Speech**: noun
+- **Catalan Translation**: resolució de problemes
+
+- **English Term**: try again
+- **Part of Speech**: expression
+- **Catalan Translation**: torneu-ho a provar
+
+- **English Term**: unable to
+- **Part of Speech**: expression
+- **Catalan Translation**: no s'ha pogut
+
+- **English Term**: unsubscribe
+- **Part of Speech**: verb
+- **Catalan Translation**: cancel·lar la subscripció
+
+- **English Term**: upload
+- **Part of Speech**: verb
+- **Catalan Translation**: pujar
+
+- **English Term**: upsell
+- **Part of Speech**: noun
+- **Catalan Translation**: venda dirigida
+
+- **English Term**: usage
+- **Part of Speech**: noun
+- **Catalan Translation**: ús
+
+- **English Term**: use
+- **Part of Speech**: verb
+- **Catalan Translation**: utilitzar
+
+- **English Term**: venue
+- **Part of Speech**: noun
+- **Catalan Translation**: recinte
+
+- **English Term**: viewport
+- **Part of Speech**: noun
+- **Catalan Translation**: àrea de visualització
+
+- **English Term**: warning
+- **Part of Speech**: noun
+- **Catalan Translation**: avís
+
+- **English Term**: welcome
+- **Part of Speech**: expression
+- **Catalan Translation**: us donem la benvinguda
+
+- **English Term**: widget
+- **Part of Speech**: noun
+- **Catalan Translation**: giny
+
+- **English Term**: width
+- **Part of Speech**: noun
+- **Catalan Translation**: amplada
+
+- **English Term**: your
+- **Part of Speech**: adjective
+- **Catalan Translation**: -
+- **Description**: Si no hi ha dubtes de l’objecte de què es parla, no l’utilitzarem. Si convé, primer cal intentar recórrer a estructures amb el verb «tenir» sense haver d’utilitzar el possessiu. (https://www.softcatala.org/guia-estil-de-softcatala/aspectes-linguistics/)
