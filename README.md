@@ -1,7 +1,7 @@
 # PO File Translation Tool for ChatGPT
 
-[![NPM version](https://img.shields.io/npm/v/gptpo.svg)](https://npmjs.org/package/gptpo)
-[![Downloads](https://img.shields.io/npm/dm/gptpo.svg)](https://npmjs.org/package/gptpo)
+![NPM Version](https://img.shields.io/npm/v/%40sitamet%2Fgptpo)
+    ![NPM Downloads](https://img.shields.io/npm/dm/%40sitamet%2Fgptpo)
 
 Translation command line tool for gettext (po) files that supports pre-translation and chat-gpt translations with assitant and fine tunning of models. 
 

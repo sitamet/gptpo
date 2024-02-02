@@ -1,3 +1,4 @@
-src/**/*
-lib/**/*.map
-.vscode
+test
+.gitignore
+.DS_Store
+.idea
