@@ -2,7 +2,8 @@
   "name": "@sitamet/gptpo",
   "version": "1.0.2",
   "description": "Translation command line tool for gettext (po) files that supports pre-translation and chat-gpt translations with assitant and fine tunning of models. ",
-  "main": "index.js",
+  "main": "./index.js",
+  "author": "Joan Vega",
   "private": false,
   "directories": {
     "test": "test"
@@ -27,10 +28,9 @@
     "chatgpt",
     "openai"
   ],
-  "author": "Joan Vega",
   "license": "MIT",
   "bin": {
-    "gptpo": "./index.js"
+    "gptpo": "index.js"
   },
   "bugs": {
     "url": "https://github.com/sitamet/gptpo/issues"
