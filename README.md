@@ -20,7 +20,7 @@ Features:
 ## 1.a Install it for the enduser, as a binary:
 
 ```sh
-npm install -g @sitamet/gptpo
+sudo npm install -g @sitamet/gptpo
 ```
 
 Then your new binary can be called lik 
@@ -47,10 +47,6 @@ export OPENAI_API_KEY=sk-F***********************************vGL
 export OPENAI_API_MODEL=gpt-3.5-turbo-1106
 ```
 
-
-```sh
-gptpo --po in/my-file.po --lang catala
-```
 
 ## Usage Scenarios
 
@@ -88,6 +84,60 @@ cd demo
 gptpo preprocess --po test.po --prev ./previous
 ```
 
+
+### Translate a po file using completions with a fine-tuned model
+
+
+IMPORTANT: Before translating with GPT, we need to establish a system prompt. This prompt will be reused for every translation task.
+
+PROBLEM 1: It is crucial to use brief prompts to reduce the token costs associated with each API request.
+SOLUTION: The strategy involves "fine-tuning" a model to function as a translator, training it to respond efficiently to succinct prompts.
+
+PROBLEM 2: Standard GPT models do not specifically cater to our "language-domain," such as WordPress plugin translations.
+SOLUTION: We will employ the gpt fine-tuning process to tell to the model all this translation details.
+
+#### Create the system prompt.
+
+In your working diretory, save the system prompt text in a file named `systemprompt.txt`.
+
+```shell
+cd demo
+echo 'You are a machine translating English to Catalan text.' > systemprompt.txt
+```
+
+In this next section we will fine-tune a model to asume this role.
+
+#### Preparing your dataset to tune the model
+
+In the previous section we defined the prompt to use for our system. Now it's time to train the assistant to respond to our users' requests following our language requirements.
+
+The file format is jsonl each message line with an array of 3 objects:
+
+```shell
+{"messages": [{"role": "system", "content": "You are a machine translating English to Catalan text."}, 
+              {"role": "user", "content": "checkbox."}, 
+              {"role": "assistant", "content": "casella de selecció."}]}
+```
+
+Example:
+```
+cat fine-tuning-ca.jsonl
+{"messages": [{"role": "system", "content": "You are a machine translating English to Catalan text."}, {"role": "user", "content": "checkbox."}, {"role": "assistant", "content": "casella de selecció."}]}
+{"messages": [{"role": "system", "content": "You are a machine translating English to Catalan text."}, {"role": "user", "content": "This plugin is compatible with your PHP version"}, {"role": "assistant", "content": "Aquesta extensió és compatible amb la versió de PHP"}]}
+{"messages": [{"role": "system", "content": "You are a machine translating English to Catalan text."}, {"role": "user", "content": "Accessed a banned URL"}, {"role": "assistant", "content": "S'ha accedit a un URL prohibit"}]}
+{"messages": ...
+```
+
+To fine-tune a model, you are required to provide at least 10 examples. We typically see clear improvements from fine-tuning on 50 to 100 training examples with gpt-3.5-turbo but the right number varies greatly based on the exact use case.
+
+Get detailed info in opanai guides: https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset
+
+
+#### Start a job to fine tune a model
+
+```shell
+cd demo
+
 ### Fine tune your gpt model:
 
 ```shell
@@ -110,11 +160,11 @@ NOTE: The optimal balance of cost and results is achieved by starting with the m
 
 #### fine-tuning demo:
 
-lets fine tune our starting model OPENAI_API_MODEL=gpt-3.5-turbo-1106
+lets fine tune our starting model `OPENAI_API_MODEL=gpt-3.5-turbo-1106`
 
 ```shell
 cd demo
-gptpo fine-tuning --name cat01 --file ./fine-tuning-ca.jsonl
+gptpo fine-tuning --suffix cat01 --file ./fine-tuning-ca.jsonl
 ```
 
 
@@ -160,13 +210,13 @@ gptpo fine-tuning-jobs
 
 You can identify your fine tuned model in the json attribute: `fine_tuned_model`:
 
+### Translate po file using our last fine tuned model:
+
 Now we set the environment var `OPENAI_API_MODEL` to point to our new trained model:
 
 ```shell
 export OPENAI_API_MODEL=ft:gpt-3.5-turbo-1106:wetopi:cat01:8e7AgzNb
 ```
-
-### Translate po file using our last fine tuned model:
 
 
 ```shell
