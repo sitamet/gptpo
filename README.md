@@ -20,7 +20,7 @@ Features:
 ## 1.a Install it for the enduser, as a binary:
 
 ```sh
-npm install -g gptpo
+npm install -g @sitamet/gptpo
 ```
 
 Then your new binary can be called lik 
