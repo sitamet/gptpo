@@ -13,6 +13,7 @@ Features:
 
 **It is recommended to use the paid OpenAI API to improve translation speed, as the free OpenAI API is slower (only 3 translations per minute) and has usage restrictions.**
 
+## 
 
 ## Installation
 
@@ -198,3 +199,9 @@ gptpo translate --po ./test.po --verbose
 ==> Algú ha intentat recuperar la contrasenya de l'usuari amb l'adreça de correu electrònic: %s
 ████████████████████ 100% 1/1 done.
 ```
+
+## Acknowledgments
+This project has been greatly inspired by the pioneering work done by ryanhex53 with https://github.com/ryanhex53/gpt-po
+The foundational ideas and codebase provided by ryanhex53 gpt-po have been instrumental in shaping the direction and development of this project.
+
+
