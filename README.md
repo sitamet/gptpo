@@ -47,6 +47,13 @@ export OPENAI_API_KEY=sk-F***********************************vGL
 export OPENAI_API_MODEL=gpt-3.5-turbo-1106
 ```
 
+in Windows PowerShell
+
+```shell
+set "OPENAI_API_KEY=sk-F***********************************vGL"
+set "OPENAI_API_MODEL=gpt-3.5-turbo-1106"
+```
+
 
 ## Usage Scenarios
 
@@ -98,7 +105,7 @@ SOLUTION: We will employ the gpt fine-tuning process to tell to the model all th
 
 #### Create the system prompt.
 
-In your working diretory, save the system prompt text in a file named `systemprompt.txt`.
+In your working directory, save the system prompt text in a file named `systemprompt.txt`.
 
 ```shell
 cd demo

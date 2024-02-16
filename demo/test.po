@@ -8,10 +8,11 @@ msgstr ""
 "X-Generator: GlotPress/4.0.0-alpha.11\n"
 "Language: ca\n"
 "Project-Id-Version: Demo\n"
+"Last-Translator: gpt-po v1.0.4\n"
 
 msgid "Someone tried to recover the password for user with email address: %s"
-msgstr ""
+msgstr "Algú ha intentat recuperar la contrasenya de l'usuari amb adreça electrònica: %s"
 
 # Source: /wp-dev-ca.po from project 'WordPress'
-msgid "Limits results to plugins with the given status."
-msgstr ""
+msgid "You do not have permission to reset the 2FA grace period."
+msgstr "No teniu permisos per restablir el període de gràcia del 2FA."
