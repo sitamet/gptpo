@@ -1,6 +1,6 @@
 {
   "name": "@sitamet/gptpo",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Translation command line tool for gettext (po) files that supports pre-translation and chat-gpt translations with assitant and fine tunning of models. ",
   "main": "./index.js",
   "author": "Joan Vega",
